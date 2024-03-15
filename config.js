@@ -12,16 +12,16 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ['97474727015', '𝑱𝑶𝑵 𝑺𝑵𝑶𝑾 🛡️', true],
-   ['97471130511', 'عمك', true]
+  ['20 1114329294', 'ITACHI 🛡️', true],
+   ['201224563219', 'NARUTO', true]
 ]
 
 //💌------------------------------------------💌
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['97474727015'] 
-global.prems = ['']
+global.mods = ['201224563219'] 
+global.prems = ['201114329294']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -123,14 +123,14 @@ global.developer = 'https://wa.me/97474727015' //contact
 global.botname = '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃'
 global.princebot = '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃'
 global.packname = '𝐉𝐎𝐍 𝐒𝐍𝐎𝐖' 
-global.author = '🛡️ 𝐄𝐀𝐒𝐓' 
+global.author = 'GOJU' 
 global.princeig = 'https://instagram.com/ 3mk_ryozaki' 
 global.princegp = 'https://instagram.com/ 3mk_ryozaki'
 global.menuvid = 'https://telegra.ph/file/4d55a0bde8a319f600703.mp4'
 global.Princesc = 'https://instagram.com/ 3mk_ryozaki' 
 global.princeyt = 'https://instagram.com/ 3mk_ryozaki'
 global.Princelog = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
-global.wm = '🛡️𝐄𝐀𝐒𝐓🛡️'
+global.wm = '🛡️GOJU🛡️'
 global.titulowm = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
 global.titulowm2 = `\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\``
 global.igfg = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
@@ -141,7 +141,7 @@ global.mysticbot = 'https://instagram.com/ 3mk_ryozaki'
 global.waitt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
 global.waittt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
 global.waitttt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
-global.nomorown = '97474727015'
+global.nomorown = '201224563219'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
